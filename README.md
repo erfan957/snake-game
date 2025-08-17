@@ -19,3 +19,4 @@ A classic Snake game implemented in Python using the Tkinter library. The snake 
    `bash
    git clone [<repository-url>](https://github.com/erfan957/snake-game.git)
    python 3.13.0
+
